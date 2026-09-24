@@ -21,7 +21,7 @@ This project analyzes sales data to identify revenue trends, top-performing prod
 - Certain months showed higher demand, indicating seasonal trends  
 
 ## Project Files
-- sales.csv – Raw dataset  
+- sales_data.csv – Raw dataset  
 - analysis.py – Python data analysis script  
 - Power BI Dashboard (visual analysis)
 
